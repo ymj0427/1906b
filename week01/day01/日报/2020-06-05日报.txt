@@ -1,5 +1,5 @@
 2020.6.5日报
-//索引库同步
+
     商品搜索
     usian_search_service
          SearchSourceBuilder searchSourceBuilder = new SearchSourceBuilder();
